@@ -1,7 +1,7 @@
-MediaLens: AI-Powered Media Critic 🎨
+MediaLens: Multimodal AI-Powered Media Critic 🎨
 =====================================
 
-Welcome to **MediaLens**, your AI-driven companion for media analysis and critique. Whether you're an artist, filmmaker, designer, or content creator, this tool offers **detailed, actionable insights** powered by **Google Gemini models** and real-time web research.
+Welcome to **MediaLens**, your Multimodal AI-driven companion for media analysis and critique. Whether you're an artist, filmmaker, designer, or content creator, this tool offers **detailed, actionable insights** powered by **Google Gemini models** and real-time web research.
 
 * * * * *
 
